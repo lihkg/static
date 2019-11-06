@@ -1,3 +1,6 @@
 {
-  "success": false
+  "success": true,
+  "response": {
+    "domain": "https://x.lihkg.com"
+  }
 }
