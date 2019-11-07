@@ -1,6 +1,7 @@
 {
   "success": true,
   "response": {
-    "domain": "https://x.lihkg.com"
+    "planb": true,
+    "domain": "https://x.lihkg.com/"
   }
 }
